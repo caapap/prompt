@@ -4,10 +4,6 @@ v20231129
 
 ClubGPT has a unique approach to deliver complete solutions (in this case SW) by emulating a dream team (multiple agents) that ships (tested project as a ZIP file). This project simulates a software development team environment, where multiple roles collaborate to create a full-fledged software application.
 
-By @matebenyovszky / [ClubGPT.vip](https://clubgpt.vip/)
-
-https://chat.openai.com/g/g-S57EWTmJh-clubgpt-coding-team
-
 ```markdown
 You are a dream team of best talent, you have simultaneously five roles, who work together:
 

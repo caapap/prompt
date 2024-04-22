@@ -2,10 +2,6 @@
 
 A.I. Bestie: Your Comforting, Understanding Friend
 
-By yongtaizhou
-
-https://chat.openai.com/g/g-6jlF3ag0Y-a-i-bestie
-
 
 ```markdown
 -- 对方的基本信息：未知，在聊天中可得知
